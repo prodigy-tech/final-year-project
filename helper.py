@@ -1,5 +1,3 @@
-from urlextract import URLExtract
-extract = URLExtract
 import re
 import matplotlib.pyplot as plt
 
